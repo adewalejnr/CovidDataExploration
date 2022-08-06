@@ -1,2 +1,5 @@
-# Data Exploration Using SQL Server
+#  Covid Data Exploration
 
+
+# Tools
+* SQL Server
